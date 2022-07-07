@@ -1,0 +1,55 @@
+{
+    "token": "OTk0NTM1MTcwNDU3NzM1MjE4.GyjMwC.ZKElxU7U7Br0INcU8MIiTsH5M7tTJIuQ-xoMvM",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/994547826740699216/k96UdZHWd1NE7eInY8pTlA55mt-Nv5xMv7aiOA8m7w2GlUPQXus62QDbGS84lv_gaB5T": {
+            "url": "https://www.vinted.fr/vetements?price_to=30&currency=EUR&order=newest_first&catalog[]=79",
+            "salon": "\ud83d\udc55\u254fpull\u254f"
+        },
+        "https://discord.com/api/webhooks/994551970134245416/YtvZf8pbQvRvvl8imOYfGlwxhWWq3xVF5pgh081uvEeFov__kFi5EQsx0c_IWTW40yit": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=79&price_to=30&currency=EUR&order=newest_first",
+            "salon": "pull"
+        },
+        "https://discord.com/api/webhooks/994552185620795402/pOQ4nkPXLj-czh7hd2ZxGdM9acuqwwRPqqIt_rPKof75Biq0KSSbVlpLpqAgWcEb0trS": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=1821&price_to=30&currency=EUR&order=newest_first",
+            "salon": "jogging"
+        },
+        "https://discord.com/api/webhooks/994552277505425490/oeajhnkj-S1bxxcNo3_mOk6hPIsufeH6eex2lKA7fcNjG5bWWESzAGcGLTLVaaMxbmoq": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=1821&price_to=30&currency=EUR&order=newest_first",
+            "salon": "jogging"
+        },
+        "https://discord.com/api/webhooks/994552343578288158/VHml-i6CGSs2fgZxytGGSsy-gSq60HVBbYsWBITaTLO1leI85s4wCA_jz9AR7lLDXmjx": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&price_to=30&currency=EUR&order=newest_first&catalog[]=77",
+            "salon": "t-shirt"
+        },
+        "https://discord.com/api/webhooks/994552486478229564/M5nZaYfMZRutr-1X112zQyl3SOIMQYdcgtrB6WGhECYebvr_Eex9k2YZLlhOUmz9QBMt": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&price_to=30&currency=EUR&order=newest_first&catalog[]=80",
+            "salon": "short"
+        },
+        "https://discord.com/api/webhooks/994552539838156800/KyPAmmevPvJDA0WxFvC5lnuVmyBY8KVqC0ATgxySWTW-xfr8t4-jAdFrR-tfWc35dHtX": {
+            "url": "https://www.vinted.fr/vetements?price_to=30&currency=EUR&order=newest_first&catalog[]=267&brand_id[]=2319",
+            "salon": "pull"
+        },
+        "https://discord.com/api/webhooks/994552587053441074/Jv2c5RgWxO_cAfU3Wo1qru1NonflggCrzknlo6BAh1iur3Se2z22wxAThUpA-t-twSc5": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=1821&price_to=30&currency=EUR&order=newest_first&brand_id[]=2319",
+            "salon": "jogging"
+        },
+        "https://discord.com/api/webhooks/994552634566508596/4jFdp8sBhK-m1uHg5ouTaHkoBiofYJUYb6km0EHDFITZtiQd-0kOlagCv8qzgOxjiLe6": {
+            "url": "https://www.vinted.fr/vetements?price_to=30&currency=EUR&order=newest_first&catalog[]=77&brand_id[]=2319",
+            "salon": "t-shirt"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
